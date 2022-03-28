@@ -1,0 +1,28 @@
+.navbar-nav .nav-item .nav-item-custom {
+    color: #1b1413 !important;
+    border: 2px solid goldenrod;
+    margin-right: 0.5rem;
+    border-radius: 1rem;
+}
+.navbar-nav .nav-item .nav-item-custom:hover {
+    padding: 0.6rem;
+    font-weight: 600;
+    
+}
+
+.navbar-nav .nav-item .nav-item-custom:hover {
+    color: white !important;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: white !important;
+}
+
+.navbar-light .navbar-brand {
+    color: tomato !important;
+}
+
+
+.custom-color-1 {
+    color: tomato !important;
+}

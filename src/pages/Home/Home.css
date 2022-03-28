@@ -1,0 +1,7 @@
+.home-container {
+    /* background-image: url("https://cs7.pikabu.ru/post_img/big/2018/11/04/11/1541361568110915139.jpg"); */
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
